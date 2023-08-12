@@ -85,6 +85,59 @@ DOMAIN,livewebbs2.msstatic.com
 DOMAIN,business.msstatic.com
 
 # ======= K ======= #
+# 酷狗音乐
+DOMAIN-KEYWORD, searchrecommend.kugou.com, reject
+DOMAIN-KEYWORD, nbcollectretry.kugou.com, reject
+DOMAIN-KEYWORD, rtmretry.kugou.com, reject
+DOMAIN-KEYWORD, rt-m.kugou.com, reject
+DOMAIN-KEYWORD, nbcollect.kugou.com, reject
+DOMAIN-KEYWORD, c1img.ali.kugou.com, reject
+DOMAIN-KEYWORD, kgstaticdlbssdlbig.tx.kugou.com, reject
+DOMAIN-KEYWORD, adsfilebssdlbig.ali.kugou.com, reject
+DOMAIN-KEYWORD, splashimgbssdl.yun.kugou.com, reject
+DOMAIN-KEYWORD, adservice.kugou.com,reject
+DOMAIN-KEYWORD, kgipadstat.kugou.com,reject
+DOMAIN-KEYWORD, kgipadstatbak.kugou.com,reject
+DOMAIN-KEYWORD, logwebs.kugou.com,reject
+DOMAIN-KEYWORD, tracker.kugou.com,reject
+DOMAIN-KEYWORD, trackercdnbj.kugou.com,reject
+DOMAIN-KEYWORD, rich.kuwo.cn, reject
+DOMAIN-KEYWORD, mobilead.kuwo.cn, reject
+DOMAIN, adsfile.bssdlbig.kugou.com, reject
+DOMAIN-SUFFIX,oth.eve.mdt.qq.com, reject
+DOMAIN,pgdt.gtimg.cn, reject
+DOMAIN-SUFFIX,pgdt.gtimg.cn, reject
+DOMAIN,pgdt.gtimg.com, reject
+DOMAIN,adsmind.gdtimg.com, reject
+DOMAIN-SUFFIX,channel.fanxing.kugou.com, reject
+DOMAIN-SUFFIX,d.kugou.com, reject
+DOMAIN-SUFFIX,downmobile.kugou.com, reject
+DOMAIN-SUFFIX,gad.kugou.com, reject
+DOMAIN-SUFFIX,game.kugou.com, reject
+DOMAIN-SUFFIX,gamebox.kugou.com, reject
+DOMAIN-SUFFIX,gcapi.sy.kugou.com, reject
+DOMAIN-SUFFIX,gg.kugou.com, reject
+DOMAIN-SUFFIX,install.kugou.com, reject
+DOMAIN-SUFFIX,install2.kugou.com, reject
+DOMAIN-SUFFIX,minidcsc.kugou.com, reject
+DOMAIN-SUFFIX,mo.kugou.com, reject
+DOMAIN-SUFFIX,msg.mobile.kugou.com, reject
+DOMAIN-SUFFIX,mvads.kugou.com, reject
+DOMAIN-SUFFIX,p.kugou.com, reject
+DOMAIN-SUFFIX,push.mobile.kugou.com, reject
+DOMAIN-SUFFIX,rtmonitor.kugou.com, reject
+DOMAIN-SUFFIX,sdn.kugou.com, reject
+DOMAIN-SUFFIX,song.fanxing.kugou.com, reject
+DOMAIN-SUFFIX,update.mobile.kugou.com, reject
+DOMAIN-SUFFIX,youxi.kugou.com, reject
+DOMAIN-SUFFIX,adserviceretry.kugou.com, reject
+DOMAIN-SUFFIX,ads.service.kugou.com, reject
+DOMAIN-SUFFIX,adsfile.bssdlbig.kugou.com, reject
+DOMAIN-SUFFIX,log.stat.kugou.com, reject
+DOMAIN-SUFFIX,log.web.kugou.com, reject
+DOMAIN-SUFFIX,kgmobilestat.kugou.com, reject
+DOMAIN-SUFFIX,kgmobilestatbak.kugou.com, reject
+DOMAIN-SUFFIX,mobilelog.kugou.com, reject
 # 酷我音乐
 DOMAIN,ad.tencentmusic.com
 DOMAIN,g.koowo.com
