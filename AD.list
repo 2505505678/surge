@@ -75,6 +75,10 @@ DOMAIN,free-aos-cdn-image.amap.com
 DOMAIN,pageviewp.icbc.com.cn
 
 # ======= H ======= #
+# HDOBOX广告
+DOMAIN-SUFFIX, doubleclick.net, reject
+DOMAIN-SUFFIX, applvn.com, reject
+DOMAIN-SUFFIX, applovin.com, reject
 # 海尔智家
 DOMAIN-SUFFIX,ehaier.com
 # 虎牙直播 开屏广告
