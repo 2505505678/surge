@@ -1,0 +1,30 @@
+#!name=分流修正
+#!desc=修正某些被分流到外面的国内网站
+DOMAIN-KEYWORD,push.apple.com
+DOMAIN,time.apple.com
+DOMAIN-KEYWORD,weather-edge.apple.com
+DOMAIN-KEYWORD,weather-adge.apple.com
+DOMAIN-SUFFIX,weather-data.apple.com
+DOMAIN-SUFFIX,weather-map.apple.com
+DOMAIN-SUFFIX,weather-analytics-events.apple.com
+DOMAIN-KEYWORD,buy.itunes.apple.com
+DOMAIN-KEYWORD,icloud.com
+DOMAIN-KEYWORD,api.smoot.apple.com
+DOMAIN-KEYWORD,api.smoot.apple.cn
+DOMAIN,init.ess.apple.com
+DOMAIN-KEYWORD,ssl.apple.com
+DOMAIN-KEYWORD,humb.apple.com
+DOMAIN,smp-device-content.apple.com
+DOMAIN-KEYWORD,api-adservices.apple.com
+DOMAIN-KEYWORD,ls.apple.com
+DOMAIN-KEYWORD,gsa.apple.com
+DOMAIN-KEYWORD,ess.apple.com
+DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
+IP-CIDR,192.168.0.1/24
+IP-CIDR,192.168.1.1/24
+DOMAIN-KEYWORD,anti-ad.net
+DOMAIN, amdc.m.taobao.com
+DOMAIN, ca.iadsdk.apple.com
+DOMAIN,ad.12306.cn
+DOMAIN-KEYWORD,aw-s.tripcdn.com
+DOMAIN-KEYWORD,trip.com
