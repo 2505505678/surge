@@ -27,9 +27,9 @@ DOMAIN,ca.iadsdk.apple.com
 DOMAIN,ad.12306.cn
 DOMAIN-KEYWORD,aw-s.tripcdn.com
 DOMAIN-KEYWORD,trip.com
-DOMAIN,sdk.alibaba.com.ailbaba.me, direct
-DOMAIN,img.ffzypic.com, direct
-DOMAIN,img.bfzypic.com, direct
-DOMAIN,vip.kuaikan-cdn3.com, direct
-DOMAIN,vip.ffzy-play7.com, direct
-DOMAIN,cdn.jsdelivr.net, direct
+DOMAIN,sdk.alibaba.com.ailbaba.me
+DOMAIN,img.ffzypic.com
+DOMAIN,img.bfzypic.com
+DOMAIN,vip.kuaikan-cdn3.com
+DOMAIN,vip.ffzy-play7.com
+DOMAIN,cdn.jsdelivr.net
