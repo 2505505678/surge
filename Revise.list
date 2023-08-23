@@ -22,8 +22,8 @@ DOMAIN-KEYWORD,ess.apple.com
 DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
 IP-CIDR,192.168.0.1/24
 DOMAIN-KEYWORD,anti-ad.net
-DOMAIN, amdc.m.taobao.com
-DOMAIN, ca.iadsdk.apple.com
+DOMAIN,amdc.m.taobao.com
+DOMAIN,ca.iadsdk.apple.com
 DOMAIN,ad.12306.cn
 DOMAIN-KEYWORD,aw-s.tripcdn.com
 DOMAIN-KEYWORD,trip.com
