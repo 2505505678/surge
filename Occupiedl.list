@@ -12,9 +12,6 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,m1.nivod.tv
-DOMAIN-SUFFIX,api.nivodz.com
-DOMAIN-SUFFIX,static.nivod4.tv
 
 # ＞ Emby
 DOMAIN,cdn.otv.icu
