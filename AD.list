@@ -41,6 +41,8 @@ DOMAIN,httpdns.baidubce.com
 DOMAIN,lc.map.baidu.com
 # 百度贴吧
 IP-CIDR,180.76.76.200/32
+# 百度网盘
+DOMAIN,mobads.baidu.com
 # 哔哩哔哩
 DOMAIN,mall.bilibili.com
 DOMAIN,passport.bilibili.com
@@ -215,6 +217,7 @@ DOMAIN,info6.video.qq.com
 DOMAIN,ios.video.mpush.qq.com
 DOMAIN,mtrace.qq.com
 DOMAIN,pgdt.gtimg.cn
+DOMAIN,vv.video.qq.com
 # TubeMax
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,applvn.com
