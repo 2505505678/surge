@@ -315,7 +315,13 @@ DOMAIN,sdkconfig.ad.xiaomi.com
 
 # ======= Y ======= #
 # 优酷
+DOMAIN,adsmind.ugdtimg.com
 DOMAIN,amdc.m.youku.com
+DOMAIN,httpdns.alicdn.com
+DOMAIN,huichuan-mc.sm.cn
+DOMAIN,huichuan.sm.cn
+DOMAIN,vali-ugc.cp31.ott.cibntv.net
+DOMAIN,valipl.cp31.ott.cibntv.net
 DOMAIN,yk-ssp.ad.youku.com
 DOMAIN,ykad-data.youku.com
 # 云闪付 开屏广告
