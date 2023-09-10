@@ -9,13 +9,6 @@ DOMAIN-SUFFIX,weather-map.apple.com
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
 DOMAIN-KEYWORD,buy.itunes.apple.com
 DOMAIN-KEYWORD,icloud.com
-DOMAIN,init.ess.apple.com
-DOMAIN-KEYWORD,ssl.apple.com
-DOMAIN-KEYWORD,humb.apple.com
-DOMAIN,smp-device-content.apple.com
-DOMAIN-KEYWORD,api-adservices.apple.com
-DOMAIN-KEYWORD,ls.apple.com
-DOMAIN-KEYWORD,gsa.apple.com
 DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
 IP-CIDR,192.168.0.1/24
 DOMAIN-KEYWORD,anti-ad.net
