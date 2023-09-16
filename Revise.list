@@ -12,10 +12,6 @@ DOMAIN-SUFFIX,weather-map.apple.com
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
 # > 苹果内购服务
 DOMAIN-KEYWORD,buy.itunes.apple.com
-# > 苹果icloud
-DOMAIN-KEYWORD,icloud.com
-# > 苹果iMessage服务
-DOMAIN,init.ess.apple.com
 # > QQ空间
 DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
 # ＞ 路由器后台
