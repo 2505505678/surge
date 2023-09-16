@@ -2,16 +2,12 @@
 #!desc=修正某些被分流到外面的国内网站
 # > 苹果推送服务
 DOMAIN-KEYWORD,push.apple.com
-# > 苹果时间同步
-DOMAIN,time.apple.com
 # > 苹果天气服务
 DOMAIN-KEYWORD,weather-edge.apple.com
 DOMAIN-KEYWORD,weather-adge.apple.com
 DOMAIN-SUFFIX,weather-data.apple.com
 DOMAIN-SUFFIX,weather-map.apple.com
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
-# > 苹果内购服务
-DOMAIN-KEYWORD,buy.itunes.apple.com
 # > QQ空间
 DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
 # ＞ 路由器后台
