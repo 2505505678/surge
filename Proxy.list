@@ -86,12 +86,6 @@ IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 
-# Testflight
-DOMAIN,beta.apple.com
-DOMAIN,testflight.apple.com
-DOMAIN-SUFFIX,eu.org
-DOMAIN-SUFFIX,ip-api.com
-
 # Tiktok
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
