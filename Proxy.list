@@ -7,6 +7,9 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,testflight
+DOMAIN-KEYWORD,ttvnw
+DOMAIN-KEYWORD,tiktokcdn-
 
 # Spark 
 DOMAIN-SUFFIX,gmail.com
@@ -17,21 +20,6 @@ DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-KEYWORD,ttvnw
-
-# YouTube
-DOMAIN,yt3.ggpht.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,withyoutube.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtubeeducation.com
-DOMAIN-SUFFIX,youtubegaming.com
-DOMAIN-SUFFIX,youtubekids.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-KEYWORD,youtube
 
 # Facebook
 DOMAIN-SUFFIX,facebook.com
@@ -62,7 +50,6 @@ DOMAIN-SUFFIX,fanbox.cc
 # Testflight
 DOMAIN,beta.apple.com
 DOMAIN,testflight.apple.com
-DOMAIN-KEYWORD,testflight
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,ip-api.com
 
@@ -100,7 +87,7 @@ DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-KEYWORD,tiktokcdn-
+
 
 # Pixiv
 DOMAIN-SUFFIX,pixiv.net
