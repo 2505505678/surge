@@ -3,17 +3,13 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,tiktokcdn-
-
-# Spark 
-DOMAIN-SUFFIX,gmail.com
-DOMAIN,sub.store
+DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,gitlab.com
 
 # Github
