@@ -2,6 +2,7 @@
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,gmail
@@ -9,17 +10,6 @@ DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,tiktokcdn-
-DOMAIN-KEYWORD,youtube
-IP-CIDR,172.110.32.0/21,no-resolve
-IP-CIDR,216.73.80.0/20,no-resolve
-IP-CIDR6,2620:120:e000::/40,no-resolve
-USER-AGENT,*YouTubeMusic*
-USER-AGENT,*com.google.ios.youtubemusic*
-USER-AGENT,*youtube*
-USER-AGENT,YouTube*
-USER-AGENT,YouTubeMusic*
-USER-AGENT,com.google.ios.youtube*
-USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN-SUFFIX,gitlab.com
 
 
