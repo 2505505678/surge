@@ -11,7 +11,8 @@ DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,tiktokcdn-
 DOMAIN-SUFFIX,gitlab.com
-
+IP-CIDR,74.125.0.0/16,no-resolve
+IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,31.13.24.0/21,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,45.64.40.0/22,no-resolve
