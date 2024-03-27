@@ -13,21 +13,12 @@ DOMAIN-KEYWORD,tiktokcdn-
 DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,gitlab.com
 
-
 # Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
-
-#  Youtube
-USER-AGENT,*youtube*
-USER-AGENT,YouTube*
-DOMAIN-SUFFIX,googlevideo.com
-USER-AGENT,*youtubemusic*
-USER-AGENT,YouTubeMusic*
-DOMAIN,youtubei.googleapis.com
 
 # Google
 DOMAIN-SUFFIX,1e100.net
