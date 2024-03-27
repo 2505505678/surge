@@ -20,19 +20,3 @@ DOMAIN,ad.12306.cn
 # > 携程
 DOMAIN-KEYWORD,aw-s.tripcdn.com
 DOMAIN-KEYWORD,trip.com
-# ＞ 大师兄 分流修正
-DOMAIN,sdk.alibaba.com.ailbaba.me
-DOMAIN,img.ffzypic.com
-DOMAIN,img.bfzypic.com
-DOMAIN,img.kuaikanzy.net
-DOMAIN,vip.kuaikan-cdn3.com
-DOMAIN,vip.ffzy-play7.com
-DOMAIN,cdn.jsdelivr.net
-# ＞ 爱影视 分流修正
-DOMAIN,vip.lz-cdn10.com
-DOMAIN,sf1-ttcdn-tos.kkimg.cc
-DOMAIN,img.liangzipic.com
-# ＞ 555影视 分流修正
-DOMAIN,jkcasvcsc.com
-DOMAIN,vip.ffzy-online.com
-DOMAIN-KEYWORD,vip.ffzy-online.com
