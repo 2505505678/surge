@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,tiktokcdn-
 DOMAIN-KEYWORD,spotify
+DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,gitlab.com
 
 # Google
@@ -40,6 +41,10 @@ DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.org
+
+# Cloudflore
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,stripe.com
 
 # PikPak
 DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
