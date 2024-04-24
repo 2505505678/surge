@@ -6,7 +6,7 @@ import { connect } from 'cloudflare:sockets';
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = '77a571fb-4fd2-4b37-8596-1b7d9728bb5c';
 
-const proxyIPs = ["us.av345.onflashdrive.app"];
+const proxyIPs = ["workers.cloudflare.cyou"];
 
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
@@ -762,5 +762,5 @@ ${pvlesswstls}
   }
 }
 const cn_hostnames = [
-'' 
+'www.douyin.com' 
 ];
