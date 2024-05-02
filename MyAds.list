@@ -114,13 +114,15 @@ DOMAIN,yk-ssp.ad.youku.com
 DOMAIN,ykad-data.youku.com
 DOMAIN,youku-acs.m.taobao.com
 
-# 微博开屏
+# ＞ 微博开屏
 DOMAIN,huodong.weibo.cn
 DOMAIN-SUFFIX,biz.weibo.com
 
-# 微信
-DOMAIN,wxsnsdy.wxs.qq.com
-DOMAIN,wxsnsdythumb.wxs.qq.com
+# ＞ 微信
+DOMAIN-SUFFIX,badjs.weixinbridge.com
+DOMAIN-SUFFIX,wxa.wxs.qq.com
+DOMAIN-SUFFIX,dns.weixin.qq.com.cn
+DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 
 # ＞ Missav.com
 DOMAIN,4lke.online
