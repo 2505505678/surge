@@ -122,7 +122,7 @@ DOMAIN-SUFFIX,biz.weibo.com
 DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,wxa.wxs.qq.com
 DOMAIN-SUFFIX,dns.weixin.qq.com.cn
-//DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
+DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 
 # Missav.com
 DOMAIN,4lke.online
