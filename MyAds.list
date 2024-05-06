@@ -46,8 +46,8 @@ IP-CIDR,103.37.155.60/32
 
 HTTPDNS
 DOMAIN,hdns.ksyun.com
-DOMAIN-KEYWORD,httpdns.
-DOMAIN-KEYWORD,httpdns-
+//DOMAIN-KEYWORD,httpdns.
+//DOMAIN-KEYWORD,httpdns-
 
 # 京东
 DOMAIN,dns.jd.com
@@ -119,10 +119,10 @@ DOMAIN,huodong.weibo.cn
 DOMAIN-SUFFIX,biz.weibo.com
 
 # 微信
-DOMAIN,badjs.weixinbridge.com
-DOMAIN,wxa.wxs.qq.com
-DOMAIN,dns.weixin.qq.com.cn
-DOMAIN,wxsnsdythumb.wxs.qq.com
+DOMAIN-SUFFIX,badjs.weixinbridge.com
+DOMAIN-SUFFIX,wxa.wxs.qq.com
+DOMAIN-SUFFIX,dns.weixin.qq.com.cn
+DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 
 # Missav.com
 DOMAIN,4lke.online
