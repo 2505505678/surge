@@ -44,10 +44,10 @@ DOMAIN,maplocatesdksnapshot.d.meituan.net
 DOMAIN,metrics-picture.d.meituan.net
 IP-CIDR,103.37.155.60/32
 
-HTTPDNS
+# HTTPDNS
 DOMAIN,hdns.ksyun.com
-//DOMAIN-KEYWORD,httpdns.
-//DOMAIN-KEYWORD,httpdns-
+DOMAIN-KEYWORD,httpdns.
+DOMAIN-KEYWORD,httpdns-
 
 # 京东
 DOMAIN,dns.jd.com
