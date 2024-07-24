@@ -7,9 +7,6 @@ DOMAIN-SUFFIX,ut.taobao.com
 # 阿里云盘
 IP-CIDR,203.107.1.1/24
 
-# 爱奇艺
-DOMAIN,api.iqiyi.com
-
 # Apple
 DOMAIN,advertising.apple.com
 DOMAIN,api-adservices.apple.com
@@ -117,12 +114,6 @@ DOMAIN,youku-acs.m.taobao.com
 # 微博开屏
 DOMAIN,huodong.weibo.cn
 DOMAIN-SUFFIX,biz.weibo.com
-
-# 微信
-DOMAIN-SUFFIX,badjs.weixinbridge.com
-DOMAIN-SUFFIX,wxa.wxs.qq.com
-DOMAIN-SUFFIX,dns.weixin.qq.com.cn
-DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 
 # Missav.com
 DOMAIN,4lke.online
