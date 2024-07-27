@@ -4,6 +4,7 @@ DOMAIN,ems.youku.com
 DOMAIN,hudong.alicdn.com
 DOMAIN-SUFFIX,ut.taobao.com
 
+# 芒果TV
 DOMAIN-SUFFIX,v2.da.mgtv.com
 DOMAIN-SUFFIX,mobile.da.mgtv.com
 DOMAIN-SUFFIX,ys.da.mgtv.com
