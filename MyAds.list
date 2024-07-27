@@ -4,6 +4,10 @@ DOMAIN,ems.youku.com
 DOMAIN,hudong.alicdn.com
 DOMAIN-SUFFIX,ut.taobao.com
 
+DOMAIN-SUFFIX,v2.da.mgtv.com
+DOMAIN-SUFFIX,mobile.da.mgtv.com
+DOMAIN-SUFFIX,ys.da.mgtv.com
+
 # 阿里云盘
 IP-CIDR,203.107.1.1/24
 
