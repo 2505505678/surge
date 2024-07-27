@@ -9,6 +9,12 @@ DOMAIN-SUFFIX,v2.da.mgtv.com
 DOMAIN-SUFFIX,mobile.da.mgtv.com
 DOMAIN-SUFFIX,ys.da.mgtv.com
 
+# 爱奇艺
+DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
+DOMAIN-SUFFIX,cards-css.iqiyi.com
+DOMAIN-SUFFIX,puma-api.iqiyi.com
+DOMAIN-SUFFIX,nl-rcd.iqiyi.com
+
 # 阿里云盘
 IP-CIDR,203.107.1.1/24
 
