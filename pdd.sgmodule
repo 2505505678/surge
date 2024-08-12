@@ -1,4 +1,5 @@
-!desc=移除开屏广告、底栏多多视频、会场入口、聊天页面精选推荐及推广、精简我的页面。
+#!name=拼多多全局净化
+#!desc=移除开屏广告、底栏多多视频、会场入口、聊天页面精选推荐及推广、精简我的页面。
 #!author=ZenmoFeiShi 
 #!icon=https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PinDuoDuo.png
 #!open=https://apps.apple.com/app/id1044283059
