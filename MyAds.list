@@ -194,3 +194,7 @@ DOMAIN,zxid-m.mobileservice.cn
 IP-CIDR,103.41.167.237/32
 IP-CIDR,118.89.204.198/32
 
+# 字节跳动
+DOMAIN, ad.zijieapi.com
+DOMAIN-KEYWORD, -ad-sign.byteimg.com
+
