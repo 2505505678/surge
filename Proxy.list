@@ -64,10 +64,6 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 
-# Talkatone
-DOMAIN-SUFFIX,tktn.be
-DOMAIN-SUFFIX,tktn.at
-
 # Pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
