@@ -1,57 +1,33 @@
 # MyList
 DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,gmail
+DOMAINDOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,abema
+DOMAIN-KEYWORD,appledaily
+DOMAIN-KEYWORD,avtb
+DOMAIN-KEYWORD,beetalk
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,dlercloud
+DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,mypikpak
-DOMAIN-KEYWORD,testflight
-DOMAIN-KEYWORD,ttvnw
-DOMAIN-KEYWORD,tiktokcdn-
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,paypal
+DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,ttvnw
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,uk-live
+DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,gitlab.com
-
-# Google
-DOMAIN-SUFFIX,1e100.net
-DOMAIN-SUFFIX,2mdn.net
-DOMAIN-SUFFIX,app-measurement.net
-DOMAIN-SUFFIX,g.co
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,goo.gl
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,gstatic.cn
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,gvt3.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
-
-# Twitter
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twimg.org
 
 # Twitch
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,jtvnw.net
-
-# Facebook
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbcdn.com
-DOMAIN-SUFFIX,fbcdn.net
 
 # Tiktok
 DOMAIN-SUFFIX,byteoversea.com
@@ -68,14 +44,6 @@ DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,fanbox.cc
-
-# Spotify
-DOMAIN-SUFFIX,pscdn.co
-DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spoti.fi
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,spotifycdn.com
-DOMAIN-SUFFIX,spotifycdn.net
 
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
